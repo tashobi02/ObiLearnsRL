@@ -1,0 +1,7 @@
+{
+  "env_id": "FrozenLake-v1",
+  "mean_reward": 1.0,
+  "std_reward": 0.0,
+  "n_eval_episodes": 100,
+  "eval_datetime": "2026-09-26T15:07:51.939301+00:00"
+}

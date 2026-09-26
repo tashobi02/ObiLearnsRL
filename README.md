@@ -5,6 +5,7 @@ I’m learning reinforcement learning with the [Hugging Face Deep Reinforcement 
 ## Materials
 
 - [Unit 1](<Unit 1/README.md>) — study notes, PPO LunarLander notebooks and runs, and related research papers.
+- [Unit 2](<Unit 2/README.md>) — tabular Q-learning notes, locally executed FrozenLake and Taxi notebooks, models, replay videos, and research papers.
 - [Bonus Unit 1](<Bonus Unit 1/README.md>) — the executable local Huggy training notebook and ML-Agents setup.
 
 ## Large assets

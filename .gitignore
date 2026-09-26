@@ -11,6 +11,7 @@ venv/
 .env
 .env.*
 !.env.example
+/Unit\ 2/.deps/
 
 # Jupyter and editor/OS clutter
 .ipynb_checkpoints/
