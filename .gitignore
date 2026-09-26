@@ -19,3 +19,7 @@ Thumbs.db
 
 # Regenerable training logs (models and demo videos are retained)
 /Unit\ 1/Notebook/runs/*/logs/
+
+# Downloaded Unity environment and locally generated training runs
+/Bonus\ Unit\ 1/Notebook/runs/environment/
+/Bonus\ Unit\ 1/Notebook/runs/results/
