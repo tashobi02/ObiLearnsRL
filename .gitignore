@@ -1,0 +1,21 @@
+# Python bytecode and build output
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter and editor/OS clutter
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Regenerable training logs (models and demo videos are retained)
+/Unit\ 1/Notebook/runs/*/logs/
